@@ -14,7 +14,13 @@
       <pubDate>Sat, 03 Jan 2026 20:57:19 +0200</pubDate>
       <guid>https://okavoliunas.github.io/posts/newpost/</guid>
       <description>&lt;h1 id=&#34;sveiki&#34;&gt;Sveiki&lt;/h1&gt;
-&lt;p&gt;Cia yra mano pirmas laboratorinio darbo hugo post&lt;/p&gt;</description>
+&lt;p&gt;Cia yra mano pirmas laboratorinio darbo hugo post
+&lt;img alt=&#34;Picture of a pipotam&#34; loading=&#34;lazy&#34; src=&#34;https://okavoliunas.github.io/assets/pipotam.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Some basic Git commands are:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git status
+git add
+git commit
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
