@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://okavoliunas.github.io/posts/newpost/</loc>
-    <lastmod>2026-01-03T20:57:19+02:00</lastmod>
+    <loc>https://okavoliunas.github.io/about/</loc>
+    <lastmod>2026-01-04T00:56:53+02:00</lastmod>
   </url><url>
     <loc>https://okavoliunas.github.io/</loc>
+    <lastmod>2026-01-04T00:56:53+02:00</lastmod>
+  </url><url>
+    <loc>https://okavoliunas.github.io/posts/newpost/</loc>
     <lastmod>2026-01-03T20:57:19+02:00</lastmod>
   </url><url>
     <loc>https://okavoliunas.github.io/posts/</loc>
